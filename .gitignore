@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+logs/*.jsonl
+logs/*.csv
+
+output/*.mp4
+alerts/*.jpg
+
+yolov8n.pt
+
+.vscode/
+
+.DS_Store
