@@ -1,7 +1,7 @@
 # 👁 Providence: CCTV Analytics
-<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/7ea3f078-9ab7-47f5-b4bf-7e105b5cfb64" />
-
 A real-time computer vision project that analyzes CCTV footage using YOLOv8.
+
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/7ea3f078-9ab7-47f5-b4bf-7e105b5cfb64" />
 
 This project detects vehicles and people from a video source, estimates traffic conditions, creates annotated footage, and displays live analytics through a terminal dashboard.
 
