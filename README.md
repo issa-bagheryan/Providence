@@ -5,7 +5,7 @@ A real-time computer vision project that analyzes CCTV footage using YOLOv8.
 
 This project detects vehicles and people from a video source, estimates traffic conditions, creates annotated footage, and displays live analytics through a terminal dashboard.
 
-The main goal of this project was learning how modern computer vision systems are structured — from video capture, model inference, and analytics logic to visualization and logging.
+The main goal of this project was learning how modern computer vision systems are structured from video capture, model inference, and analytics logic to visualization and logging.
 
 This is a **learning project**, built while exploring AI engineering, computer vision pipelines, and real-time inference systems.
 
